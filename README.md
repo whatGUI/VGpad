@@ -1,4 +1,6 @@
 # VGpad
+You can find a demo here:blush:→[VGpad-demo](vg-pad.vercel.app)  
+
 
 ## Project setup
 ```
@@ -19,6 +21,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

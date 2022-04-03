@@ -25,7 +25,6 @@
 import socket from "@/websocket/index";
 export default {
   name: 'SocketConnect',
-  props: {},
   data() {
     return {
       ipAddress: '',
@@ -33,8 +32,6 @@ export default {
     }
   },
   emits: ["socketConnect"],
-  components: {},
-  watch: {},
   mounted() {
     // this.getUrlParams();
   },

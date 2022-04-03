@@ -24,16 +24,7 @@ import ABXY from "@/components/ABXY.vue"
 
 export default {
   name: 'UniversalLayout',
-  props: {},
-  data() {
-    return {
-
-    }
-  },
-  components: { ShoulderButtons, BasicButton, DPad, VJoystick, ABXY },
-  watch: {},
-  mounted() { },
-  methods: {}
+  components: { ShoulderButtons, BasicButton, DPad, VJoystick, ABXY }
 }
 </script>
 

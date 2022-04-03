@@ -63,16 +63,7 @@
 import BasicButton from "./BasicButton.vue";
 export default {
   name: 'DPad',
-  props: {},
-  data() {
-    return {
-
-    }
-  },
   components: { BasicButton },
-  watch: {},
-  mounted() { },
-  methods: {}
 }
 </script>
 

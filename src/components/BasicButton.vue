@@ -37,12 +37,6 @@ export default {
       buttonPressed: false,
     }
   },
-  computed: {
-
-  },
-  components: {},
-  watch: {},
-  mounted() { },
   methods: {
     pressStart() {
       this.buttonPressed = true

@@ -15,16 +15,7 @@
 import BasicButton from "./BasicButton.vue"
 export default {
   name: 'ShoulderButtons',
-  props: {},
-  data() {
-    return {
-
-    }
-  },
   components: { BasicButton },
-  watch: {},
-  mounted() { },
-  methods: {}
 }
 </script>
 
